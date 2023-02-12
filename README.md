@@ -28,8 +28,8 @@ The outcome of this project will be a machine learning model that can accurately
     <li>However, there is no data that has a suspicious distance between the mean and median.</li>
 </ul>
 <h2>Insight and Recommendations:</h2>
-<ul>Business Insight:
-    <li>. Mobile optimization is critical for the business's success, given that the preferred login device is the mobile phone. The company should prioritize making its platform user-friendly and easy to navigate for mobile users to ensure a positive user experience and increase customer retention. The next step is focusing to developing mobile-specific features such as push notifications, personalized recommendations, and easy-to-use checkout systems to increase customer engagement and reduce churn.</li>
+<ul><b>Business Insight:</b>
+    <li>Mobile optimization is critical for the business's success, given that the preferred login device is the mobile phone. The company should prioritize making its platform user-friendly and easy to navigate for mobile users to ensure a positive user experience and increase customer retention. The next step is focusing to developing mobile-specific features such as push notifications, personalized recommendations, and easy-to-use checkout systems to increase customer engagement and reduce churn.</li>
     <li>The popularity of debit and credit card payments suggests that e-commerce businesses should prioritize implementing secure and easy-to-use payment systems to cater to their customers' preferred payment methods.</li>
     <li>Given that married men users dominate, the business may want to develop targeted marketing campaigns and promotions to appeal to this demographic.</li>
     <li>The fact that the top product categories are mobile phones and laptops/accessories indicates that the business should focus on expanding its offerings in these categories to meet the high demand. </li>
@@ -39,7 +39,7 @@ The outcome of this project will be a machine learning model that can accurately
     <li>Customers who have not made a purchase in a long time may be more likely to churn in the future. This insight suggests that e-commerce businesses should focus on developing targeted marketing campaigns to re-engage dormant customers and encourage repeat purchases.</li>
     <li>CityTier 3 has a higher churn rate compared to CityTier 1. There are several possibilities that need to be explored further; customer in CityTier 3 may have lower purchasing power, limited access to high-speed internet or face other logistical challenges in accessing e-commerce platforms that leading to a higher likehood of churn, different preferences and expectations, lower trust in e-commerce platform.</li>
 </ul>
-<ul>Business Recommendation:
+<ul><b>Business Recommendation:</b>
     <li>For mobile optimization, the company should invest in a responsive website design that provides a seamless user experience across all devices. They should also consider developing mobile-specific features such as push notifications, personalized recommendations, and easy-to-use checkout systems.</li>
     <li>To cater to customers preferred payment methods, the e-commerce business should implement secure and user-friendly payment systems that support debit and credit card payments.</li>
     <li>The business should develop targeted marketing campaigns and promotions to appeal to the dominant demographic of married men users. The campaigns should highlight products that are popular with this demographic.</li>
